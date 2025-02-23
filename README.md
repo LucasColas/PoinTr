@@ -75,6 +75,8 @@ pip install extensions/chamfer_dist extensions/cubic_feature_sampling extensions
 
 pip install "git+https://github.com/LucasColas/Pointnet2_PyTorch.git#egg=pointnet2_ops&subdirectory=pointnet2_ops_lib"
 
+pip install --upgrade https://github.com/unlimblue/KNN_CUDA/releases/download/0.2/KNN_CUDA-0.2-py3-none-any.whl
+
 ```
 
 ### Without conda
